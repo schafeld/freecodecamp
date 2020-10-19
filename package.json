@@ -47,7 +47,7 @@
     "express-session": "~1.9.2",
     "express-validator": "~2.8.0",
     "font-awesome": "~4.3.0",
-    "forever": "~0.14.1",
+    "forever": "~0.15.3",
     "frameguard": "^0.2.2",
     "github-api": "~0.7.0",
     "gulp-less": "^3.0.3",
